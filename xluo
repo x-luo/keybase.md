@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+ * I am x-luo on github.
+ * I am xluo (https://keybase.io/xluo) on keybase.
+ * I have a public key ASAsha5bFtr7oYTaZcGqlqVauplHlo-0e_2fSsii7tYZtAo
+
+To claim this, I am signing this object:
+
+```json
+{
+ "body": {
+   "key": {
+     "eldest_kid": "01202c85ae5b16dafba184da65c1aa96a55aba9947968fb47bfd9f4ac8a2eed619b40a",
+     "host": "keybase.io",
+     "kid": "01202c85ae5b16dafba184da65c1aa96a55aba9947968fb47bfd9f4ac8a2eed619b40a",
+     "uid": "271bd83866a3307b381cb4f63e2a1419",
+     "username": "xluo"
+   },
+   "merkle_root": {
+     "ctime": 1568415996,
+     "hash": "cc85dabb3c637f6d88cc4f009a9ebc64c56d30da06ffdeb96f6442d670729dab7e0d84efd63832787dfd074c09cc2b632c394cf1da19fe0a61f8f08095c51bf7",
+     "hash_meta": "92c40c82feface2b995a158969b55164aa4c82deefe38431e3b1f357b7fc0fd7",
+     "seqno": 7223201
+   },
+   "service": {
+     "entropy": "Qu6HmQfpyeok1Bjic7qA25Rl",
+     "name": "github",
+     "username": "x-luo"
+   },
+   "type": "web_service_binding",
+   "version": 2
+ },
+ "client": {
+   "name": "keybase.io go client",
+   "version": "4.4.0"
+ },
+ "ctime": 1568416004,
+ "expire_in": 504576000,
+ "prev": "78067196def7bbe15a745ad27aead9e26f157d278f1eb72c9c34379e5c40430a",
+ "seqno": 9,
+ "tag": "signature"
+}
+```
+
+with the key [ASAsha5bFtr7oYTaZcGqlqVauplHlo-0e_2fSsii7tYZtAo](https://keybase.io/xluo), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLIWuWxba+6GE2mXBqpalWrqZR5aPtHv9n0rIou7WGbQKp3BheWxvYWTESpcCCcQgeAZxlt73u+FadFrSeurZ4m8VfSePHrcsnDQ3nlxAQwrEIER2VqsVN1TTy5snkbU2MPakaNXuLfoSVn/rFLgi1KcLAgHCo3NpZ8RAcaRg/U0Qi8gKcYxwpVVd+QeXI3cwVT06pG5guJ76OTANuwkmsXKYAOyF/Zin11oXSMd7s33YbF0+3+fPyy+/D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKdFXg8Ie4MWg+FmbNoRlfdtK007UW+WnBJ44hs28fN1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/xluo
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id xluo
+```
